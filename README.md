@@ -1,0 +1,2 @@
+# binary-template
+Layout training
